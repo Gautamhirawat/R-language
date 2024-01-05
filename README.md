@@ -24,3 +24,7 @@ DAY 1 {
 DAY 2 {
 04/01/2024 I learned to create a line graph in which a smaple exell file is uploaed in such a way that a heading on top and all the column is filled with the values to put in graph .. tommorw i am going to make new changes in that file ... app_excel_lineplot.R
 }
+
+DAY 3 {
+05/01/2024 i moved all the things in theri respective folder and made BASIC_1,_2.R
+}
